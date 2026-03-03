@@ -1,3 +1,5 @@
+# 💖 Y2K Kanban Board
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +16,22 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+Live demo: https://kanban-board-seven-teal.vercel.app/
+
+## Features
+✨ Drag & drop tasks  
+✨ Inline edit & delete  
+✨ LocalStorage persistence  
+✨ Y2K aesthetic UI  
+✨ Subtle sparkle cursor
+
+## Tech Stack
+- React (Vite)
+- @hello-pangea/dnd
+- CSS animations
+
+## How to Run Locally
+1. `npm install`
+2. `npm run dev`
